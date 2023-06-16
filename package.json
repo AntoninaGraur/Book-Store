@@ -2,20 +2,20 @@
   "name": "book-store",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AntoninaGraur.github.io/book-store",
+  "homepage": "https://AntoninaGraur.github.io/Book-Store",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /book-store/ --no-optimize"
+    "build": "parcel build src/*.html --public-url /Book-Store/ --no-optimize"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pelmeshek91/book-store.git"
+    "url": "git+https://github.com/AntoninaGraur/Book-Store.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pelmeshek91/book-store/issues"
+    "url": "https://github.com/AntoninaGraur/Book-Store/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
